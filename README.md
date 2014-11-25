@@ -1,4 +1,4 @@
-<h1>An Assignment using assembly language to compute the quadratic equation.</h1>
+<h3>An Assignment using assembly language to compute the quadratic equation.</h3>
 
 <p>The user enters three command line arguments for the a, b, c and the code uses assembly language and the floating point stack to compute the x-intercept.</p>
 
